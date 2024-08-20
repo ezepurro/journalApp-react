@@ -3,7 +3,7 @@
 const JournalApp = () => {
   return (
     <>
-        <h1>Hola mundo!</h1>
+        <h1>JournalApp</h1>
     </>
   )
 }
